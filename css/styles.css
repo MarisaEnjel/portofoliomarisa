@@ -600,6 +600,11 @@ progress {
 
 .img-fluid {
   max-width: 100%;
+  height: 300px;
+}
+
+.img-sertifikat {
+  width: auto;
   height: auto;
 }
 
